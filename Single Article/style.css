@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+/* Here starts header style */
+.header{
+    background-color: black;
+    width: auto;
+    height: 25em;
+}
+.header header{
+    background-color: black;
+    width: 60em;
+    height: 25em;
+    margin: auto;
+}
+
+/* Here starts page style */
+.page{
+    width: 60em;
+    margin: auto;
+    background-color: lightgray;
+}
+.article{
+    padding: 1em;
+}
